@@ -1,3 +1,8 @@
+.idea/
+*.exe
+CMakeLists.txt
+
+
 # Prerequisites
 *.d
 
